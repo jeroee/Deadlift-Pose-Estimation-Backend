@@ -1,3 +1,6 @@
 # Deadlift-Pose-Estimation-Backend
 
-run `pip install -r requirements.txt` and `python flask_backend.py`, then run `yarn start` in Deadlift-Pose-Estimation-Frontend repository
+1) run `pip install -r requirements.txt`
+2) input your cloudinary `cloud_name`, `api_key` and `api_secret` in `flask_backend.py`
+3) run `python flask_backend.py`
+4) run `yarn start` in Deadlift-Pose-Estimation-Frontend repositor
